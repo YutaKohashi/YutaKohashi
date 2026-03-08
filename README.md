@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on ...
 - ⚡ **Favorite Languages**: Kotlin & Go
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: [Twitter](https://twitter.com/YOUR_TWITTER) / [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 📫 How to reach me: [Zenn](https://zenn.dev/ykohashi) / [LinkedIn](https://www.linkedin.com/in/yuta-kohashi-3b817a10a/)
 
 ## 🚀 Tech Stack
 
